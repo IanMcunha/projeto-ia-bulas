@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignorar logs e saídas do modelo
+/logs
+/modelo_bulario_bertimbau
