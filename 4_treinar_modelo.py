@@ -6,6 +6,7 @@ import os
 # --- 1. CONFIGURAÇÃO ---
 ARQUIVO_DATASET = os.path.join("dataset", "dataset_final_balanceado.csv")
 MODELO_BERT = "neuralmind/bert-base-portuguese-cased"
+RANDOM_STATE = 42
 
 # Nossas 6 etiquetas (IMPORTANTE: A ordem deve ser a mesma)
 LABELS = ["COMPOSICAO", "INDICACAO", "CONTRAINDICACAO", "POSOLOGIA", "EFEITOS_ADVERSOS", "OUTROS"]
