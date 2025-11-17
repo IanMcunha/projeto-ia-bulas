@@ -53,7 +53,7 @@ O projeto é dividido em um pipeline de scripts Python que preparam os dados e t
 - **Pandas:** Para manipulação inicial e análise dos arquivos `.csv`.
 - **PyMuPDF (`fitz`):** Para a extração de texto de alta performance dos arquivos `.pdf`.
 - **Scikit-learn (`sklearn`):** Para calcular as métricas de avaliação do modelo (Acurácia, F1-Score, etc.).
-- **Streamlit:** (A ser implementado) Para a aplicação web de consumo do modelo.
+- **Streamlit:** Para a aplicação web de consumo do modelo.
 
 ---
 
