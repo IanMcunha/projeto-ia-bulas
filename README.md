@@ -8,7 +8,11 @@ Curso de Ciência da Computação - Mackenzie - Turma 07N - 2025.2
 - Arthur Vignati Moscardi - 10409688  
 - Enzo Bernal de Matos - 10402685  
 - Ian Miranda Da Cunha - 10409669  
-- Pedro Pessuto Rodrigues Ferreira - 10409729  
+- Pedro Pessuto Rodrigues Ferreira - 10409729
+
+##  Vídeo
+
+https://www.youtube.com/watch?v=bqggGWBvkuY
 
 ---
 
